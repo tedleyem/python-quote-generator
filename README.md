@@ -11,7 +11,7 @@ $ docker run tedleyem/python-qoute-generator:latest
 ### Quick Start
 1. Clone the repo
   ```
-  $ git clone https://github.com/tedleyem/flask-boilerplate.git
+  $ git clone https://github.com/tedleyem/python-quote-generator.git
   $ cd folder
   ```
 
@@ -44,5 +44,5 @@ $ docker run tedleyem/python-qoute-generator:latest
 * [PythonAnywhere - Help](https://www.pythonanywhere.com/help/)
 * [Flask Documentation](http://flask.pocoo.org/docs/)
 * [Flask Extensions](http://flask.pocoo.org/extensions/)
-* [Real Python](http://www.realpythonfortheweb.com) :)
+* [Real Python](http://www.realpythonfortheweb.com) 
 
